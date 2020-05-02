@@ -1,0 +1,9 @@
+small-pp.txt
+small-zoo.txt
+t1-pp.txt
+t2-dic.txt
+t3-BigWordList.txt
+t4-bb.txt
+t5-wp.txt
+
+
